@@ -2,18 +2,6 @@
 Changelog for package turtlesim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.9.0 (2018-04-11)
-------------------
-* add melodic turtle (`#41 <https://github.com/ros/ros_tutorials/issues/41>`_)
-
-0.8.1 (2017-07-27)
-------------------
-* theta ranges from -pi to +pi (`#31 <https://github.com/ros/ros_tutorials/issues/31>`_)
-
-0.8.0 (2017-03-10)
-------------------
-* add lunar turtle (`#39 <https://github.com/ros/ros_tutorials/pull/39>`_)
-
 0.7.1 (2016-10-24)
 ------------------
 * check pen_on\_ when processing teleport requests (`#35 <https://github.com/ros/ros_tutorials/pull/35>`_)
